@@ -9,3 +9,11 @@ Wer sich nochmal genauer die Grundlagen anschauen möchte, dem kann ich dieses V
 Ansonsten findet ihr bestimmt auch noch viele weitere gute Tutorials auf YouTube und co. 
 
 Probiert einfach ein bisschen rum. Wenn ihr Fragen habt, kann ich auch gern versuchen diese noch zu beantworten. 
+
+In dieser Version habe ich ein neues Design ausprobiert und noch ein paar Zitate hinzugefügt.
+
+Die Zitate müssen nicht meine Meinung widerspiegeln und sind wahrscheinlich Aussagen, welche die Person, die als Autor genannt ist, getätigt hat. Selbstverständlich übernehme ich auch keine Verantwortung für falsche Zitate oder Ähnliches.
+
+Die Zitate stammen ursprünglich von hier: 
+http://zitate.net/ 
+
